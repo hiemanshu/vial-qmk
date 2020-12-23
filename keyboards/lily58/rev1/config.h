@@ -18,6 +18,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
 #pragma once
+#define VIAL_KEYBOARD_UID {0x44, 0x39, 0x45, 0xCF, 0xD8, 0x5A, 0x38, 0x54}
 
 /* USB Device descriptor parameter */
 #define VENDOR_ID       0x04D8
